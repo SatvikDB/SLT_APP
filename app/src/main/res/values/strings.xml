@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sign Language Translator</string>
+    <string name="app_name">Boli Sanket</string>
     <string name="mic_button_description">Microphone button to start speech recognition</string>
     <string name="clear_button_description">Clear text button</string>
     <string name="listening_status">Listening!</string>
